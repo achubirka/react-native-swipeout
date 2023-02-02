@@ -1,6 +1,3 @@
-# DEPRECATED
-this is no longer supported, please consider using https://github.com/software-mansion/react-native-gesture-handler instead.
-
 # react-native-swipeout
 iOS-style swipeout buttons that appear from behind a component
 
